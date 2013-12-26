@@ -13,6 +13,7 @@ Objectives:
   * send a text message
   * .. but it's really easy, all you have to do is "bam" copypasta -- right here, right below this line...
 * publishing a monetized app to the app store
+* hackety-hack
 * profit
 
 
