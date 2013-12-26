@@ -15,5 +15,6 @@ Objectives:
 * publishing a monetized app to the app store
 * hackety-hack
 * profit
+* plus looks good on one's college-application
 
 
